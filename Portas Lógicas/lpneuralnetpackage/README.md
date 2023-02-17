@@ -6,28 +6,20 @@ The operations are performed by a neural network that analyzes the input given b
 
 ## Installing the package:
  ``` pip install lpneuralnet ```
+ 
+ ``` import lpneuralnet as lpn```
 
 ### Logical AND Operator:
-``` import lpneuralnet as lpn```
-
 ``` lpn.runAnd() ```
 
 ### NAND Logic Operator:
-``` import lpneuralnet as lpn```
-
 ``` lpn.runNand() ```
 
 ### OR Logic Operator:
-``` import lpneuralnet as lpn ```
-
 ``` lpn.runOr() ```
 
 ### NOR Logic Operator:
-``` import lpneuralnet as lpn ```
-
 ``` lpn.runNor() ```
 
 ### NOT Logic Operator:
-``` import lpneuralnet as lpn ```
-
 ``` lpn.runNot() ```
