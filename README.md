@@ -1,4 +1,4 @@
 ## Repository where I put my codes for the third semester course: Basic Computer Architecture and Organization
 
 #### Subjects:
-  - Logical Operators (Portas Logicas/lpneuralnetpackage)
+  - Logical Operators (Portas Lgicas/lpneuralnetpackage)
