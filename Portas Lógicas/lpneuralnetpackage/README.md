@@ -13,6 +13,7 @@ The operations are performed by a neural network that analyzes the input given b
 ```lpn.runAnd()```
 
 Ex:
+
 ![Screenshot from 2023-02-17 15-46-39](https://user-images.githubusercontent.com/86479444/219758166-58c9598e-11c6-403e-985c-ed91eb3e5c0e.png)
 
 ### NAND Logic Operator:
